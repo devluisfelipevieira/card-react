@@ -1,0 +1,17 @@
+.profile{
+  background-color: white;
+  margin: 1rem;
+  max-width: 20rem;
+  height: 80vh;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.avatar{
+  margin: 0.5rem auto 0 auto;
+  height: 150px;
+}
